@@ -34,13 +34,17 @@
 			"settings": {}
 		}
 	],
+	"outboundDetour": [{
+			"protocol": "freedom",
+			"settings": {},
+		},
+	],
 	"routing": {
 		"domainStrategy": "IPOnDemand",
 		"rules": [{
-				"type": "field",
-				"ip": ["geoip:private"],
-				"outboundTag": "blocked"
-			}
-		]
+			"type": "field",
+			"ip": ["geoip:private"],
+			"outboundTag": "blocked"
+		}]
 	}
 }
