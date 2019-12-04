@@ -34,11 +34,6 @@
 			"settings": {}
 		}
 	],
-	"outboundDetour": [{
-			"protocol": "freedom",
-			"settings": {},
-		},
-	],
 	"routing": {
 		"domainStrategy": "IPOnDemand",
 		"rules": [{
