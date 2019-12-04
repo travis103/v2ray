@@ -1,0 +1,18 @@
+2019/12/03 12:58:12 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 12:58:14 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 12:58:33 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 12:58:47 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 12:59:08 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 12:59:35 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 13:01:09 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 13:01:09 [Debug] v2ray.com/core/app/proxyman/inbound: creating stream worker on 0.0.0.0:10087
+2019/12/03 13:01:09 [Debug] v2ray.com/core/app/proxyman/inbound: creating stream worker on 0.0.0.0:10086
+2019/12/03 13:01:09 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:10087
+2019/12/03 13:01:09 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:10086
+2019/12/03 13:01:09 [Warning] v2ray.com/core: V2Ray 4.21.3 started
+2019/12/03 13:03:40 [Debug] v2ray.com/core/app/log: Logger started
+2019/12/03 13:03:40 [Debug] v2ray.com/core/app/proxyman/inbound: creating stream worker on 0.0.0.0:10087
+2019/12/03 13:03:40 [Debug] v2ray.com/core/app/proxyman/inbound: creating stream worker on 0.0.0.0:10086
+2019/12/03 13:03:40 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:10087
+2019/12/03 13:03:40 [Info] v2ray.com/core/transport/internet/tcp: listening TCP on 0.0.0.0:10086
+2019/12/03 13:03:40 [Warning] v2ray.com/core: V2Ray 4.21.3 started
